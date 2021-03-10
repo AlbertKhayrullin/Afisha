@@ -1,9 +1,7 @@
 package tech.itpark;
 
-import tech.itpark.Manager.FilmManager;
+import tech.itpark.manager.FilmManager;
 import tech.itpark.domain.Film;
-
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
